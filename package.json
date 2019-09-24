@@ -1,0 +1,20 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["typescript map", "google map"],
+  "author": "Brant Keener",
+  "license": "ISC",
+  "description": "A simple, random map application",
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "@types/faker": "^4.1.5",
+    "@types/googlemaps": "^3.37.7",
+    "faker": "^4.1.0"
+  }
+}
