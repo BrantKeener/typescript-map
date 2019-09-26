@@ -19,7 +19,7 @@ export class CustomMap {
         lat: 0,
         lng: 0
       },
-      zoom: 1
+      zoom: 2.9
     });
   }
 
