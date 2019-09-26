@@ -32,6 +32,14 @@ Once node and npm are installed, the remaining requirements can all be installed
 ```
 
 Furthermore, perform an `npm install` in order to install the dependencies located in the package.json. This will install faker, as well as the type definition files for faker and Google Maps.
+Open your terminal, navigate to the directory, and run:
+
+```
+> parcel index.html
+```
+
+You should see a screen that looks similar to this:
+![TypeScript Maps Screenshot](./src/assets/TS_maps_screenshot.png?raw=true)
 
 ## Authors
 
