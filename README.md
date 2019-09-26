@@ -38,8 +38,12 @@ Open your terminal, navigate to the directory, and run:
 > parcel index.html
 ```
 
+Open a browser, and enter the port that is utilized by parcel. (ie localhost:1234)
+
 You should see a screen that looks similar to this:
 ![TypeScript Maps Screenshot](./src/assets/TS_maps_screenshot.png?raw=true)
+
+If you click on the marker, you will get an infowindow that will provide information from the randomly generated "user" or "company."
 
 ## Authors
 
